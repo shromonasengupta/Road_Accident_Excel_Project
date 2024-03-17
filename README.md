@@ -7,7 +7,7 @@ Requirement: Clients wants to create a Road Accident Dashboard for year 2021 and
 5. Maximum casualities by road type
 6. Distribution of total casualities by road surface
 7. Relation between casualities by area/ location & by Day/ Night
-Stakeholders:
+   Stakeholders:
 1. Ministry of Transport
 2. Road Transport Department
 3. Police Force
@@ -18,10 +18,11 @@ Stakeholders:
 8. Traffic Management Agencies
 9. Public
 10. Media
-Metadata:
-File Extension- .xlsx
-No. of Rows- 3.07 Million
-No. of Fields- 21
+   Metadata:
+  File Extension- .xlsx
+  No. of Rows- 3.07 Million
+  No. of Fields- 21
+
 Step 1: Data Cleaning
 Step 2: Data Processing
 Step 3: Data Analysis
